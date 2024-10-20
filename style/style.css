@@ -130,3 +130,46 @@ li{
 }
 
 /*footer section*/
+footer{
+    background-color: black;
+    color: #FFF;
+    height: 50vh;
+    display: flex;
+    gap: 200px;
+    margin-bottom: 20px;
+    
+    
+}
+.foot-title{
+    font-size: 45px;
+    font-weight: bold;
+}
+.footer-colum{
+    width: 50%;
+    margin: 0 300px;
+    
+}
+.social-links a{
+    margin-right: 25px;
+}
+.input{
+    display: block;
+}
+.sub-btn{
+    border: 0px;
+    border-radius: 5px;
+    background-color:#005FAC;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+    width: 150px;
+    height: 50px;
+}
+.input{
+    width: 250px;
+    height: 50px;
+    background-color: black;
+    border-color: #FFF;
+    border-radius: 5px;
+}
