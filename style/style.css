@@ -57,10 +57,10 @@ body{
 .fail-container{
     display: flex;
     align-items: center;
-    margin:100px  400px 200px;
+    margin:100px  300px 200px;
     max-width: 1072px;
     max-height: 723px;
-    
+    gap: 100px;
 }
 .fail{
     margin-left: 50px;
@@ -135,7 +135,7 @@ footer{
     color: #FFF;
     height: 70vh;
     display: flex;
-    gap: 200px;
+    gap: 150px;
     margin-bottom: 20px;
     
     
